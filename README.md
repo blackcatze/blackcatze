@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @blackcatze
+
 - 👀 I’m interested in anything!
 - 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on a team project
 - 📫 How to reach me syasyahi90@gmail.com
 
 <!---
